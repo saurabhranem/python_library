@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py_advanced_search_list_prod",
-    version="0.0.2",
+    version="0.0.5",
     author="Saurabh",
     author_email="saurabhrane.m@gmail.com",
     description="Package to advance search",
